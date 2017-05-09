@@ -1,0 +1,33 @@
+  __  __            _     _              _                          _               ____           ____              ____                  
+ |  \/  | __ _  ___| |__ (_)_ __   ___  | |    ___  __ _ _ __ _ __ (_)_ __   __ _  |  _ \ _ __ ___|  _ \ ___  __ _  / ___|  ___ __ _ _ __  
+ | |\/| |/ _` |/ __| '_ \| | '_ \ / _ \ | |   / _ \/ _` | '__| '_ \| | '_ \ / _` | | |_) | '__/ _ \ |_) / _ \/ _` | \___ \ / __/ _` | '_ \ 
+ | |  | | (_| | (__| | | | | | | |  __/ | |__|  __/ (_| | |  | | | | | | | | (_| | |  __/| | |  __/  _ <  __/ (_| |  ___) | (_| (_| | | | |
+ |_|  |_|\__,_|\___|_| |_|_|_| |_|\___| |_____\___|\__,_|_|  |_| |_|_|_| |_|\__, | |_|   |_|  \___|_| \_\___|\__, | |____/ \___\__,_|_| |_|
+                                                                            |___/                               |_|                        
+
+OVERVIEW:
+
+When you start to write scripts on Machine Learning in Python, there are some certain pre-requisites that need to be in there in order to successfully execute the machine learning program. 
+
+This simple script will help you to identify the versions of all the libraries required for Machine Learning.
+
+LIBRARIES:
+
+1.	NumPy		=	This is the fundamental package for scientific computing.
+2.	SciPy		=	This is the scientific coputing module.
+3.	Pandas		=	This is the package for providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data
+4.	MatPlotLib	=	The plotting library for the Python programming language and its numerical mathematics extension NumPy
+5.	SciKitLearn	=	The software machine learning library. It includes various algorithms, and is designated to interoperate seamlessly with NumPy and SciPy
+
+SAMPLE OUTPUT:
+
+The following is the sample output of the program.
+
+Python: v2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 12:39:47) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+
+NumPy: v1.12.1
+SciPy: v0.19.0
+Pandas: v0.20.1
+MatPlotLib: v2.0.1
+SciKit-Learn: v0.18.1
